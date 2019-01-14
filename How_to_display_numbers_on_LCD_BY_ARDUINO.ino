@@ -2,6 +2,9 @@
 *How to display numbers on LCD screen by Arduino uno
 *This is a very basic example which will help you to understand how cursor location arrangement can be done on the LCD screen.
 *
+*for more detail about this project please visit:
+*https://arduinounomagic.blogspot.com/2019/01/how-to-use-lcd-with-arduino-uno.html
+
 *Copyright (C) 2007 Free Software Foundation, Inc. <arduinounomagic@gmail.com>
 *for more projects based on Arduino uno please visit: https://arduinounomagic.blogspot.com/
 */
