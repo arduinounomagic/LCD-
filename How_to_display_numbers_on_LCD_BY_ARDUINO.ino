@@ -9,7 +9,7 @@
 
 
 #include<LiquidCrystal.h>
-LiquidCrystal ARDUINO_LCD(1, 2, 7, 6, 5, 4);// Set RS pin=1, Enable pin=2, D4=7, D5=6, D6=5, d7=4.  
+LiquidCrystal ARDUINO_LCD(8, 2, 7, 6, 5, 4);// Set RS pin=8, Enable pin=2, D4=7, D5=6, D6=5, d7=4.  
 
 void setup()
 { 
